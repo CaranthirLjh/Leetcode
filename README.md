@@ -8,5 +8,9 @@
     - [ ] 10
     - [ ] 15
     - [ ] 1696
+- Fast Slow Pointer Approach
+    - [ ] 19
+- Sliding Window
+    - [ ] 30
 - Two Point Approach
     - [ ] 18 (important: can be apply to kSum)
