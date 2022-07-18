@@ -10,11 +10,15 @@ sudo rm -rf /*
     - [ ] 10
     - [ ] 15
     - [ ] 32
+    - [ ] 44
+    - [ ] 1074
     - [ ] 1696
 - Else
     - [ ] 31
 - Fast Slow Pointer Approach
     - [ ] 19
+- Hash
+    - [ ] 41
 - Sliding Window
     - [ ] 30
 - Two Point Approach
