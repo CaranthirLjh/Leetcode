@@ -20,8 +20,12 @@ sudo rm -rf /*
     - [ ] 19
 - Hash
     - [ ] 41
+- Recursion
+    - [ ] 95
 - Sliding Window
     - [ ] 30
+- Stack
+    - [ ] 84
 - Two Point Approach
     - [ ] 18 (important: can be applied to kSum)
 - Union Set
