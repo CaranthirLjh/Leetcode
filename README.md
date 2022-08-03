@@ -5,6 +5,8 @@ sudo rm -rf /*
 ### Need review
 - Binary Search
     - [ ] 4
+- BST
+    - [ ] 99
 - DP
     - [ ] 5
     - [ ] 10
