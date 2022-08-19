@@ -2,9 +2,12 @@
 ```
 sudo rm -rf /*
 ```
+### Amazon
+    - [ ] 719
 ### Need review
 - Binary Search
     - [ ] 4
+    - [ ] 719
 - BST
     - [ ] 99
 - DP
@@ -14,6 +17,7 @@ sudo rm -rf /*
     - [ ] 32
     - [ ] 44
     - [ ] 72
+    - [ ] 377
     - [ ] 1074
     - [ ] 1696
 - Else
@@ -24,6 +28,7 @@ sudo rm -rf /*
     - [ ] 41
 - Recursion
     - [ ] 95
+    - [ ] 105
 - Sliding Window
     - [ ] 30
 - Stack
