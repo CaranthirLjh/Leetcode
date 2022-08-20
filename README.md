@@ -4,6 +4,7 @@ sudo rm -rf /*
 ```
 ### Amazon
     - [ ] 719
+    - [ ] 2281
 ### Need review
 - Binary Search
     - [ ] 4
@@ -26,6 +27,8 @@ sudo rm -rf /*
     - [ ] 19
 - Hash
     - [ ] 41
+- Mono Stack
+    - [ ] 2281
 - Recursion
     - [ ] 95
     - [ ] 105
