@@ -3,6 +3,10 @@
 sudo rm -rf /*
 ```
 ### Amazon
+    - [ ] 307
+    - [ ] 309
+    - [ ] 336
+    - [ ] 376
     - [ ] 719
     - [ ] 2214
     - [ ] 2281
@@ -25,6 +29,8 @@ sudo rm -rf /*
     - [ ] 32
     - [ ] 44
     - [ ] 72
+    - [ ] 309
+    - [ ] 376
     - [ ] 377
     - [ ] 1074
     - [ ] 1696
@@ -39,10 +45,14 @@ sudo rm -rf /*
 - Recursion
     - [ ] 95
     - [ ] 105
+- Segment Tree
+    - [ ] 307
 - Sliding Window
     - [ ] 30
 - Stack
     - [ ] 84
+- Trie
+    - [ ] 336
 - Two Point Approach
     - [ ] 18 (important: can be applied to kSum)
 - Union Set
