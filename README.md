@@ -7,6 +7,11 @@ sudo rm -rf /*
     - [ ] 309
     - [ ] 336
     - [ ] 376
+    - [ ] 456
+    - [ ] 458
+    - [ ] 472
+    - [ ] 474
+    - [ ] 475
     - [ ] 719
     - [ ] 2214
     - [ ] 2281
@@ -17,6 +22,7 @@ sudo rm -rf /*
 ### Need review
 - Binary Search
     - [ ] 4
+    - [ ] 475
     - [ ] 719
 - Bit Operation
     - [ ] 201
@@ -32,15 +38,18 @@ sudo rm -rf /*
     - [ ] 309
     - [ ] 376
     - [ ] 377
+    - [ ] 474
     - [ ] 1074
     - [ ] 1696
 - Else
     - [ ] 31
+    - [ ] 458
 - Fast Slow Pointer Approach
     - [ ] 19
 - Hash
     - [ ] 41
 - Mono Stack
+    - [ ] 456
     - [ ] 2281
 - Recursion
     - [ ] 95
